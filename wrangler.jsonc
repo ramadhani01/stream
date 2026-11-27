@@ -1,7 +1,0 @@
-{
-  // Ganti "velour" dengan nama Worker lu persis seperti tertulis di dashboard Cloudflare.
-  "name": "velvet",
-  "main": "worker.js",
-  "compatibility_date": "2026-11-26",
-  "kv_namespaces": [{ "binding": "VIDEOS" }]
-}
